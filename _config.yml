@@ -82,7 +82,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "docs/README.md"
+      path: "readme.md"
     values:
       navigation: "true"
   - scope:
