@@ -82,7 +82,7 @@ defaults:
     values:
       navigation: "true"
   - scope:
-      path: "docs/README.md"
+      path: "Sonnet_Fancy.md"
     values:
       navigation: "true"
   - scope:
